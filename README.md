@@ -1,4 +1,4 @@
-# PP_index_for_classification
+# Assessment of Projection Pursuit Index for Classifying High Dimension Low Sample Size Data in R 
 
 ======= README: Description for R Code =======
 
