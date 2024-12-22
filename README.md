@@ -6,4 +6,4 @@ This README provides a description for producing the results (tables and figures
 
 Wu, Z.X., and Zhang, C.M. (2023). Assessment of Projection Pursuit Index for Classifying High-Dimension Low-Sample-Size Data in R. Journal of Data Science, 21(2):310-332. [https://jds-online.org/journal/JDS/article/1326/info]
 
-All the code is open source and available in the following GitHub repository: https://github.com/zwu363/projection-pursuit-index.
+All the code is open-source and available in Bella Wu's GitHub repository: https://github.com/zwu363/projection-pursuit-index.
