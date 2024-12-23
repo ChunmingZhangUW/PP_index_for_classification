@@ -1,5 +1,4 @@
 # Assessment of Projection Pursuit Index for Classifying High Dimension Low Sample Size Data in R 
-
 ======= README: Description for R Code =======
 
 This README provides a description for producing the results (tables and figures) related to the numerical studies in the paper:
